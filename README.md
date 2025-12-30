@@ -56,17 +56,19 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=henzzimessi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=henzzimessi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=henzzimessi&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=henzzimessi&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=henzzimessi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henzzimessi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=henzzimessi&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=henzzimessi&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ## 📈 Contribution Graph
