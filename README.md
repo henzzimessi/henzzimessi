@@ -55,27 +55,11 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=henzzimessi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=henzzimessi&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=henzzimessi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+![henzzimessi's Stats](https://github-readme-stats-ten-olive-12.vercel.app/api?username=henzzimessi&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-## 🏆 GitHub Trophies
+![henzzimessi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=henzzimessi&theme=radical&hide_border=true)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=henzzimessi&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=henzzimessi&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
+![henzzimessi's Top Languages](https://github-readme-stats-ten-olive-12.vercel.app/api/top-langs/?username=henzzimessi&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ## 🎯 Current Focus
 
