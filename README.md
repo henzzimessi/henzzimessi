@@ -56,11 +56,11 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henzzimessi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=henzzimessi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=henzzimessi&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henzzimessi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=henzzimessi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
