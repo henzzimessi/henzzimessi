@@ -60,7 +60,7 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henzzimessi&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=henzzimessi&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -100,7 +100,7 @@ I'm a passionate developer who loves creating innovative solutions and learning 
 ## 💡 A Quote of Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="A Quote of Day" />
+  <img src="https://quotier.vercel.app/quote" alt="A Quote of Day" />
 </div>
 
 ---
