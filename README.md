@@ -8,7 +8,7 @@
 
 I'm a passionate developer who loves creating innovative solutions and learning new technologies. I enjoy working on both frontend and backend projects, always striving to write clean, efficient code.
 
-- 🔭 I'm currently working on payroll management system and talent contest system
+- 🔭 I'm currently working on talent contest system
 - 🌱 I'm constantly learning and exploring new technologies
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about web/mobile development, programming, or tech in general
